@@ -4,10 +4,10 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "test:linear": "jest tests/linearSearch.test.ts",
-    "test:binary": "jest tests/binarySearch.test.ts",
-    "test:tree": "jest tests/binaryTreeComparison.test.ts",
-    "test:quick": "jest tests/quickSort.test.ts"
+    "test:one": "jest tests/one.test.ts",
+    "test:two": "jest tests/two.test.ts",
+    "test:three": "jest tests/three.test.ts",
+    "test:four": "jest tests/four.test.ts"
   },
   "keywords": [],
   "author": "",
