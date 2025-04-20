@@ -4,7 +4,7 @@ The search method must be implement manually.
 
 *** EXAMPLE 1: ***
 Input:
-haystack = [1, 3, 5, 7, 9], needle = 5
+haystack = [3, 1, 7, 5, 9], needle = 5
 Output:
 true
 */
